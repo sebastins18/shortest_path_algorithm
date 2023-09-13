@@ -38,10 +38,10 @@ def save_to_csv(algorithm_name, path, stats):
         writer.writerow(["Ruta Encontrada"])
         writer.writerow(path)
 
-    # Restablecer el número de laboratorio si es necesario
+
     lab_number = 1
 
-    # Guardar estadísticas
+
     file_name_stats = f"{algorithm_name}_laberinto_{lab_number}_stats.csv"
     full_save_stats_path = os.path.join(BASE_PATH, SAVE_STATS, file_name_stats)
 
