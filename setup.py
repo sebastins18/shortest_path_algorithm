@@ -14,6 +14,7 @@ setup(
         'pylint==2.11.1',
         'numpy',
         'matplotlib',
+        'python-dotenv',
     ],
     entry_points={
         'console_scripts': [
