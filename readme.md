@@ -56,8 +56,8 @@ Este proyecto consiste en una aplicación de escritorio desarrollada en Python q
 
 ## 🤝 Integrantes
 
-Sebastián Long Segura Méndez
-Mauren Miranda Quesada
+1. Sebastián Long Segura Méndez
+2. Mauren Miranda Quesada
 
 ## 📊 Análisis y Conclusiones
 
